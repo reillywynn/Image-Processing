@@ -1,0 +1,17 @@
+﻿  project2.cpp
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(180,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(190,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(200,21): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(324,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(334,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(345,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(356,21): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(428,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(450,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(472,21): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(526,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(594,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(598,21): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(643,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\project2\project2\project2.cpp(725,42): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1201: error writing to program database 'C:\Users\wynnr\source\repos\project2\Debug\project2.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
